@@ -1,7 +1,13 @@
-# **Finding Lane Lines on the Road** 
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+# Finding Lane Lines on the Road
 
-<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
+Welcome to my implementation of the Term 1 project [Finding Lane Lines on the Road](https://github.com/udacity/CarND-LaneLines-P1) of the [Self-Driving Car NanoDegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
+
+
+## Resources
+
+* [Self-Driving Car NanoDegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) course description at Udacity.
+* [Finding Lane Lines on the Road](https://github.com/udacity/CarND-LaneLines-P1) project template on Github.
+
 
 Overview
 ---
@@ -53,4 +59,7 @@ A browser window will appear showing the contents of the current directory.  Cli
 
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
+
+## License
+The contents of this repository are covered under the [MIT License](https://github.com/mkleesiek/CarND-LaneLines-P1/blob/master/LICENSE).
 

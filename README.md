@@ -23,7 +23,7 @@ The image processing pipeline implemented in the project [Jupyter notebook](P1.i
 7. Average the left/right half line segments and extrapolating them to the trapezoidal area.
 8. Overlay the original image with the detected lane line.
 
-<img src="test_images_output/solidYellowCurve.jpg" width="200">
+<img src="test_images_output/solidYellowCurve.jpg" width="250">
 
 ## Structure
 

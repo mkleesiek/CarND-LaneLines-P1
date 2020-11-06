@@ -50,7 +50,7 @@ The averaging is performed using weights, based on the length of the detected li
 
 ![](writeup_assets/solidYellowCurve_6.png)
 
-The last two steps turned out to be crucial in order to make the pipeline robust enough to handle the optional "challenge" video.
+The last two steps turned out to be crucial in order to make the pipeline robust enough to handle the optional ["challenge" video](test_videos_output/03-challenge.mp4).
 
 I added one more gimmick: The width of the extrapolated lines is calculated based on the standard deviation of the lines' x-position at the lower edge of the image. The width of these lines now gives a rough measure of confidence on the extrapolation result: The thicker the line, the more uncertain the averaged line position (and indirectly slope).
 

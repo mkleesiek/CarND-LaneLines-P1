@@ -33,6 +33,7 @@ The image processing pipeline implemented in the project [Jupyter notebook](P1.i
 * [test_images_output](test_images_output): Output folder for images processed with the current [P1.ipynb](P1.ipynb)
 * [test_videos](test_videos): Input folder for example videos
 * [test_videos_output](test_videos_output): Output folder for videos processed with the current [P1.ipynb](P1.ipynb)
+* [writeup.md](writeup.md): The final writeup for this project
 
 
 ## Instructions

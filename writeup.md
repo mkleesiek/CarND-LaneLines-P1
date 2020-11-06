@@ -5,6 +5,8 @@
 When implementing the image processing pipeline, i stayed close to the structure suggested in the project template.
 The pipeline itself consists of roughly 5 steps, after reading an image or video frame from the provided input material.
 
+The customization and extension of the `draw_lines` function is described in sections 5.2. and 5.3. -- also, don't miss the [in-code comments](P1.ipynb).
+
 ![](writeup_assets/solidYellowCurve_original.png)
 
 ### 1. Select color regions of the image relevant to the line detection
@@ -23,7 +25,7 @@ I chose a kernel size of 5 which seems to reduce a reasonable amount of noise in
 
 ![](writeup_assets/solidYellowCurve_3.png)
 
-### 4. Apply Canny Edge detection to mark strong gradients
+### 4. Apply Canny Edge detection to mark strong gradients and highlight line edges
 In this step, the thresholds 50:130 works well for me, preserving all of the interesting lane line edges.
 
 ![](writeup_assets/solidYellowCurve_4.png)

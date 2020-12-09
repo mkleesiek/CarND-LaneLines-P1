@@ -1,5 +1,7 @@
 # Finding Lane Lines on the Road
 
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
 Welcome to my implementation of the Term 1 project [Finding Lane Lines on the Road](https://github.com/udacity/CarND-LaneLines-P1) of the [Self-Driving Car NanoDegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
 
 
@@ -23,7 +25,7 @@ The image processing pipeline implemented in the project [Jupyter notebook](P1.i
 7. Average the left/right half line segments and extrapolating them to the trapezoidal area.
 8. Overlay the original image with the detected lane line.
 
-<img src="test_images_output/solidYellowCurve.jpg" width="250">
+<img src="test_images_output/solidYellowCurve.jpg" width="400">
 
 ## Structure
 

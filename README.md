@@ -44,5 +44,5 @@ Follow the instructions at [CarND-Term1-Starter-Kit](https://github.com/udacity/
 
 
 ## License
-The contents of this repository are covered under the [MIT License](https://github.com/mkleesiek/CarND-LaneLines-P1/blob/master/LICENSE).
+The contents of this repository are covered under the [MIT License](LICENSE).
 
